@@ -1,2 +1,5 @@
-package JavaCurs.git;public class anotherOne {
+public class anotherOne {
+    public void
+
+
 }
