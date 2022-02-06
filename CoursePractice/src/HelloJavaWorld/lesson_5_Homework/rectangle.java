@@ -26,10 +26,11 @@ public class rectangle {
         rectangle1.close();
         rectangle2.close();
 
-        boolean b = ((width1 * lenght1) > (width2 * lenght2));
-        if (b == true)
+        int arrea1 = (width1 * lenght1);
+        int arrea2 = (width1 * lenght2);
+        if (arrea1 > arrea2)
             System.out.println("The rectangle1 is bigger");
-        else if (b == false)
+        else if (arrea1 < arrea2)
             System.out.println("The rectangle2 is bigger");
         else
             System.out.println("The rectangle1 is equal to rectangle2");
