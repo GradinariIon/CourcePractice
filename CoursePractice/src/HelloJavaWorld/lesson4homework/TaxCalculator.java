@@ -1,4 +1,4 @@
-package HelloJavaWorld.Lesson_4_homework;
+package HelloJavaWorld.lesson4homework;
 
 import java.util.Scanner;
 

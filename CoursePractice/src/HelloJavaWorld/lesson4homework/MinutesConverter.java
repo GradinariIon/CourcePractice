@@ -1,8 +1,8 @@
-package HelloJavaWorld.Lesson_4_homework;
+package HelloJavaWorld.lesson4homework;
 
 import java.util.Scanner;
 
-public class minutesConverter {
+public class MinutesConverter {
     public static void main(String [] args){
 
         Scanner time = new Scanner(System.in);

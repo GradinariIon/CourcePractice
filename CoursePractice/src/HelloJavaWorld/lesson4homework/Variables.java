@@ -1,4 +1,4 @@
-package HelloJavaWorld.Lesson_4_homework;
+package HelloJavaWorld.lesson4homework;
 
 public class Variables {
     public static void main(String [] args) {

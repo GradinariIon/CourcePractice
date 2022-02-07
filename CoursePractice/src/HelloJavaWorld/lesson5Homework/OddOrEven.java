@@ -1,8 +1,8 @@
-package HelloJavaWorld.lesson_5_Homework;
+package HelloJavaWorld.lesson5Homework;
 
 import java.util.Scanner;
 
-public class oddOrEven {
+public class OddOrEven {
     public static void main(String[] args) {
 
         System.out.println("Type a number: ");
